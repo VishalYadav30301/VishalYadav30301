@@ -25,7 +25,7 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/vishal-yadav-197b40229/" target="_blank"><img src="https://github.com/user-attachments/assets/70048e71-bfb3-454e-a2c4-3ebd183f8355 "  alt="Linkdin" height="50" title="linkdin"></a>
   <a href="mailto:vishyad2k2@gmail.com" target="_blank"><img src="https://github.com/user-attachments/assets/1f3becbb-1a52-49da-bf08-b382402b1e25" alt="Gmail" height="50" title="Gmail"></a>
-  <a href="https://x.com/VishalYadav2k2" target="_blank"><img src="https://github.com/user-attachments/assets/f5bfe8dc-2bbb-4cbd-9897-b117d72bf77d" alt="Twitter" height="50" title="Twitter"></a>
+  <a href="https://x.com/VishalYadav2k2" target="_blank"><img src="https://github.com/user-attachments/assets/4d2702c4-22f9-46dd-a4b1-9cf7eeedc2f7" alt="Twitter" height="50" title="Twitter"></a>
  <a href="https://www.instagram.com/yaduvanshi_vishal1207/" target="_blank"><img src="https://github.com/user-attachments/assets/bb414ff1-98ce-4632-b026-f3434a0586f2"alt="Instagram" height="50" title="Instagram"></a>
  <a href="https://portfolio-self-rho-78.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/6db23628-d0b8-423c-8384-068cb3c1daf2" alt="Portfolio" height="50" title="Portfolio"></a>
 </p>
