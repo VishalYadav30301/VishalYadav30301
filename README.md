@@ -46,8 +46,9 @@
 <img src="https://github.com/user-attachments/assets/9e34902f-1eed-48b5-8366-2977d5f0f365" alt="Mongodb" height="50" title="MongoDB">
 <img src="https://github.com/user-attachments/assets/9ff965c7-88b6-4e8f-84d5-c0dc917b6657" alt="SQL" height="50" title="SQL">
 <img src="https://github.com/user-attachments/assets/e9d99bb1-7a2e-4d46-942b-171b3e7a4bab" alt="Visual Code" height="50" title="VS Code">
-<img src="https://github.com/user-attachments/assets/acaafc7f-25fd-4b17-a99f-74a5d8d188fd"
- alt="CANVA" height="50" title="CANVA">
+<img src="https://github.com/user-attachments/assets/acaafc7f-25fd-4b17-a99f-74a5d8d188fd"alt="CANVA" height="50"title="CANVA">
+<img src="https://github.com/user-attachments/assets/abe52313-7269-40e9-967f-10214c8c24b2"alt="VERCEL"height="50"title="VERCEL">
+
 <br>
 <img src="https://github.com/user-attachments/assets/c3b30311-1346-4047-bde7-9cd7e95e06b5" alt="GITHUB" height="50" title="GITHUB">
 <img src="https://github.com/user-attachments/assets/a6fd7ee8-3b08-4214-afd5-2557d86cd18d" alt="GIT" height="50" title="GIT">
