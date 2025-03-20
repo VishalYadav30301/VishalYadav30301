@@ -9,8 +9,7 @@
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Full Stack Web Developer & Competitive Coder &...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ Software Trainee (NodeJS) at APPINVENTIV ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp; :man_office_worker: Software Trainee (NodeJS) at APPINVENTIV ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://portfolio-self-rho-78.vercel.app/" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
 <br><br><br><br>
