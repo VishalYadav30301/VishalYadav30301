@@ -52,6 +52,8 @@
 <img src="https://github.com/user-attachments/assets/c3b30311-1346-4047-bde7-9cd7e95e06b5" alt="GITHUB" height="50" title="GITHUB">
 <img src="https://github.com/user-attachments/assets/a6fd7ee8-3b08-4214-afd5-2557d86cd18d" alt="GIT" height="50" title="GIT">
 <img src="https://github.com/user-attachments/assets/4a91c473-52be-4f24-8577-54ca43111330" alt="NETLIFY" height="50" title="NETLIFY">
+<!-- <img src="https://github.com/user-attachments/assets/4a91c473-52be-4f24-8577-54ca43111330" alt="Postgresql" height="50" title="Postgresql">
+ -->
 <br>
 <img src="https://github.com/user-attachments/assets/7f46c60d-ce91-46be-b165-2b89e948eda6" alt="C" height="50" title="C">
 <img src="https://github.com/user-attachments/assets/10fc7c7c-7cfa-4e1e-bf6a-a7fbe0ddcb72" alt="CPP" height="50" title="C++">
